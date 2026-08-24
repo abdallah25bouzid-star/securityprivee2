@@ -1,0 +1,8 @@
+{
+  "appId": "fr.bucklersecurity.app",
+  "appName": "Buckler Security",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
